@@ -42,6 +42,8 @@ Links:
 
 1) https://code.tutsplus.com/tutorials/get-started-with-layouts-in-react-native--cms-27418
 
+# Javascript essentials for reactjs :
 
+1) https://codeburst.io/whats-new-in-es6-or-es2015-480edf104489
 
 
