@@ -33,4 +33,15 @@ Links:
 4) https://medium.com/@pavsidhu/using-redux-with-react-native-9d07381507fe
 
 
+# Good Projects:
+
+1) https://github.com/alik0211/pokedex
+
+
+# Redux Layout:
+
+1) https://code.tutsplus.com/tutorials/get-started-with-layouts-in-react-native--cms-27418
+
+
+
 
