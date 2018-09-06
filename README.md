@@ -46,4 +46,8 @@ Links:
 
 1) https://codeburst.io/whats-new-in-es6-or-es2015-480edf104489
 
+# Best Practices :
+
+1) https://americanexpress.io/clean-code-dirty-code/
+
 
