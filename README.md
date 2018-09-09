@@ -46,8 +46,14 @@ Links:
 
 1) https://codeburst.io/whats-new-in-es6-or-es2015-480edf104489
 
+2) 
+
 # Best Practices :
 
 1) https://americanexpress.io/clean-code-dirty-code/
 
+2) https://medium.freecodecamp.org/rock-solid-react-js-foundations-a-beginners-guide-c45c93f5a923
 
+# Heroku React: 
+
+1) https://medium.com/@rocksinghajay/create-and-deploy-react-app-on-heroku-d3b0765add2c
