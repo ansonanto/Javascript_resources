@@ -54,6 +54,18 @@ Links:
 
 2) https://medium.freecodecamp.org/rock-solid-react-js-foundations-a-beginners-guide-c45c93f5a923
 
+# React lifecycle methods:
+
+1) https://www.andreasreiterer.at/reactjs-lifecycle-methods/
+
+# React functional components:
+
+1) https://medium.com/javascript-inside/embracing-functions-in-react-d7d558d8bd30
+
+2) https://medium.freecodecamp.org/7-reasons-to-outlaw-reacts-functional-components-ff5b5ae09b7c
+
+3) https://www.andreasreiterer.at/react-functional-components/
+
 # Heroku React: 
 
 1) https://medium.com/@rocksinghajay/create-and-deploy-react-app-on-heroku-d3b0765add2c
