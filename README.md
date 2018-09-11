@@ -18,7 +18,7 @@ Links:
 
 2) http://www.interviewgig.com/react-native-interview-questions-and-answers/
 
-3)
+3) https://medium.com/@dkhuong291/20-reactjs-questions-and-answers-part-1-45fe5bc0a910
 
 4)
 
