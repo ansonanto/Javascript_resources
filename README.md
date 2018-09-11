@@ -66,6 +66,12 @@ Links:
 
 3) https://www.andreasreiterer.at/react-functional-components/
 
+# Common react native errors:
+
+1) https://github.com/auth0/react-native-auth0/issues/105
+
+2) https://github.com/wix/react-native-navigation/issues/78
+
 # Heroku React: 
 
 1) https://medium.com/@rocksinghajay/create-and-deploy-react-app-on-heroku-d3b0765add2c
