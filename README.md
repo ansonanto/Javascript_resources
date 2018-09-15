@@ -80,6 +80,12 @@ Links:
 
 2) https://github.com/wix/react-native-navigation/issues/78
 
+# React native asyncstorage:
+
+1) https://medium.com/building-with-react-native/what-is-asyncstorage-in-react-native-and-how-you-to-use-it-with-app-state-manager-1x09-b8c636ce5f6e
+
+2)
+
 # Javascript events: (event bubbling, event capturing)
 
 1) https://www.quirksmode.org/js/events_order.html
