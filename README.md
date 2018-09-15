@@ -22,9 +22,17 @@ Links:
 
 4)
 
+# Redux tutorials:
+
+1) https://www.valentinog.com/blog/react-redux-tutorial-beginners/
+
+2) https://egghead.io/courses/getting-started-with-redux
+
+3)
+
 # Tutorials:
 
-1) https://egghead.io/courses/getting-started-with-redux
+1) 
 
 2) https://blog.cloudboost.io/getting-started-with-react-native-and-redux-6cd4addeb29
 
