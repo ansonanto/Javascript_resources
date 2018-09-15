@@ -80,6 +80,10 @@ Links:
 
 2) https://github.com/wix/react-native-navigation/issues/78
 
+# Javascript events: (event bubbling, event capturing)
+
+1) https://www.quirksmode.org/js/events_order.html
+
 # Heroku React: 
 
 1) https://medium.com/@rocksinghajay/create-and-deploy-react-app-on-heroku-d3b0765add2c
