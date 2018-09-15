@@ -84,7 +84,7 @@ Links:
 
 1) https://medium.com/building-with-react-native/what-is-asyncstorage-in-react-native-and-how-you-to-use-it-with-app-state-manager-1x09-b8c636ce5f6e
 
-2)
+2) https://medium.com/front-end-hacking/async-await-with-react-lifecycle-methods-802e7760d802
 
 # Javascript events: (event bubbling, event capturing)
 
