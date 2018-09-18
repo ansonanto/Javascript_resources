@@ -30,9 +30,10 @@ Links:
 
 3)
 
+
 # Tutorials:
 
-1) 
+1) https://daveceddia.com/react-redux-immutability-guide/
 
 2) https://blog.cloudboost.io/getting-started-with-react-native-and-redux-6cd4addeb29
 
