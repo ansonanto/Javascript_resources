@@ -81,6 +81,8 @@ Links:
 
 2) https://github.com/wix/react-native-navigation/issues/78
 
+3) https://stackoverflow.com/questions/34995079/react-native-android-build-error-mainactivity-java29-error-cannot-find-symbol
+
 # React native asyncstorage:
 
 1) https://medium.com/building-with-react-native/what-is-asyncstorage-in-react-native-and-how-you-to-use-it-with-app-state-manager-1x09-b8c636ce5f6e
