@@ -75,6 +75,8 @@ Links:
 
 3) https://www.andreasreiterer.at/react-functional-components/
 
+4) https://codeburst.io/when-to-use-component-or-purecomponent-a60cfad01a81
+
 # Common react native errors:
 
 1) https://github.com/auth0/react-native-auth0/issues/105
