@@ -67,6 +67,8 @@ Links:
 
 1) https://www.andreasreiterer.at/reactjs-lifecycle-methods/
 
+2) https://vijayt.com/post/my-first-genuine-use-for-shouldcomponentupdate/
+
 # React functional components:
 
 1) https://medium.com/javascript-inside/embracing-functions-in-react-d7d558d8bd30
