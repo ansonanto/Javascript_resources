@@ -6,6 +6,7 @@ Links:
 
 1) https://medium.com/@yosua1011/how-to-add-splash-screen-to-react-native-app-under-10-minutes-android-react-native-0-50-e19ed01b632b
 
+2)https://medium.com/handlebar-labs/how-to-add-a-splash-screen-to-a-react-native-app-ios-and-android-30a3cec835ae
 
 # Closures:
 
