@@ -97,6 +97,8 @@ Links:
 
 2) https://medium.com/front-end-hacking/async-await-with-react-lifecycle-methods-802e7760d802
 
+3) https://gist.github.com/kiok46/421dbc17843212118d78c2fe2cd35c2c
+
 # Javascript events: (event bubbling, event capturing)
 
 1) https://www.quirksmode.org/js/events_order.html
