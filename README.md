@@ -107,3 +107,11 @@ Links:
 # Heroku React: 
 
 1) https://medium.com/@rocksinghajay/create-and-deploy-react-app-on-heroku-d3b0765add2c
+
+# React Native app publish:
+
+1) https://www.youtube.com/watch?v=cws_eQ5LQUk
+
+2) https://www.youtube.com/watch?v=p7WcUTKJ_kY
+
+3) https://www.youtube.com/watch?v=sVKtvPArY-s
