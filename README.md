@@ -112,6 +112,10 @@ Links:
 
 1) https://medium.com/@rocksinghajay/create-and-deploy-react-app-on-heroku-d3b0765add2c
 
+# Reactjs testing:
+
+1) https://blog.bitsrc.io/how-to-test-react-components-using-jest-and-enzyme-fab851a43875
+
 # React Native app publish:
 
 1) https://www.youtube.com/watch?v=cws_eQ5LQUk
