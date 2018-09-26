@@ -31,6 +31,10 @@ Links:
 
 3)
 
+# Redux Custom Middleware:
+
+1) https://medium.com/netscape/creating-custom-middleware-in-react-redux-961570459ecb
+
 # React Native testing:
 
 1) https://medium.com/react-native-training/learning-to-test-react-native-with-jest-part-1-f782c4e30101
