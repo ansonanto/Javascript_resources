@@ -116,6 +116,8 @@ Links:
 
 1) https://blog.bitsrc.io/how-to-test-react-components-using-jest-and-enzyme-fab851a43875
 
+2) https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2018-f68950900bc3
+
 # React Native app publish:
 
 1) https://www.youtube.com/watch?v=cws_eQ5LQUk
