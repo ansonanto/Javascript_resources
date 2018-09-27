@@ -123,3 +123,7 @@ Links:
 2) https://www.youtube.com/watch?v=p7WcUTKJ_kY
 
 3) https://www.youtube.com/watch?v=sVKtvPArY-s
+
+# Books:
+
+1) http://exploringjs.com/es6/index.html#toc_ch_destructuring
