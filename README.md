@@ -1,7 +1,5 @@
 # Javascript_resources
 
-Links:
-
 # Splash screen:
 
 1) https://medium.com/@yosua1011/how-to-add-splash-screen-to-react-native-app-under-10-minutes-android-react-native-0-50-e19ed01b632b
@@ -105,6 +103,12 @@ Links:
 2) https://medium.com/front-end-hacking/async-await-with-react-lifecycle-methods-802e7760d802
 
 3) https://gist.github.com/kiok46/421dbc17843212118d78c2fe2cd35c2c
+
+# React ES5 vs ES6:
+
+1) https://medium.com/@remarkablemark/react-refactor-es5-to-es6-72277746eb68
+
+2) https://dzone.com/articles/comparing-react-with-es5-versus-react-with-es6
 
 # Javascript events: (event bubbling, event capturing)
 
