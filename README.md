@@ -88,6 +88,8 @@ Links:
 
 4) https://codeburst.io/when-to-use-component-or-purecomponent-a60cfad01a81
 
+5) https://hackernoon.com/react-stateless-functional-components-nine-wins-you-might-have-overlooked-997b0d933dbc
+
 # Common react native errors:
 
 1) https://github.com/auth0/react-native-auth0/issues/105
