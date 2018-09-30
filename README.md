@@ -76,6 +76,8 @@
 
 2) https://vijayt.com/post/my-first-genuine-use-for-shouldcomponentupdate/
 
+3) https://medium.com/highape-tech/what-if-reactjs-component-methods-were-hindu-gods-60abf3b4e911
+
 # React functional components:
 
 1) https://medium.com/javascript-inside/embracing-functions-in-react-d7d558d8bd30
