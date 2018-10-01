@@ -90,6 +90,8 @@
 
 5) https://hackernoon.com/react-stateless-functional-components-nine-wins-you-might-have-overlooked-997b0d933dbc
 
+6) http://www.thedevnotebook.com/2017/04/react-basics-types-of-components.html?m=1
+
 # Common react native errors:
 
 1) https://github.com/auth0/react-native-auth0/issues/105
@@ -111,6 +113,14 @@
 1) https://medium.com/@remarkablemark/react-refactor-es5-to-es6-72277746eb68
 
 2) https://dzone.com/articles/comparing-react-with-es5-versus-react-with-es6
+
+# Single Responsibility Principle in React applications:
+
+1) https://sunscrapers.com/blog/single-responsibility-principle-in-react-applications-part-1/?utm_source=facebook&utm_medium=group
+
+# Authentication with JSON web tokens:
+
+1) https://medium.com/@faizanv/authentication-for-your-react-and-express-application-w-json-web-tokens-923515826e0
 
 # Javascript events: (event bubbling, event capturing)
 
