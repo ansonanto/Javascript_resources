@@ -144,6 +144,10 @@
 
 3) https://www.youtube.com/watch?v=sVKtvPArY-s
 
+# this in javascript:
+
+1) https://www.youtube.com/watch?v=zE9iro4r918
+
 # Books:
 
 1) http://exploringjs.com/es6/index.html#toc_ch_destructuring
