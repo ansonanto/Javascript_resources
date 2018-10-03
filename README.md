@@ -29,6 +29,10 @@
 
 3)
 
+# React Performance:
+
+1) https://logrocket-blog.ghost.io/death-by-a-thousand-cuts-a-checklist-for-eliminating-common-react-performance-issues/
+
 # Redux Custom Middleware:
 
 1) https://medium.com/netscape/creating-custom-middleware-in-react-redux-961570459ecb
