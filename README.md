@@ -166,6 +166,10 @@
 
 2) https://gist.github.com/ConnorBryan/ee488374e0e8945520712a8f91b7dd42
 
+# Webpack:
+
+1) http://tinselcity.net/whys/packers
+
 # Books:
 
 1) http://exploringjs.com/es6/index.html#toc_ch_destructuring
