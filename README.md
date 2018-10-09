@@ -156,6 +156,16 @@
 
 1) https://codepen.io/Tanim_Mahbub/project/editor/XWwxYg
 
+# Reactjs Interview:
+
+1) https://github.com/sudheerj/reactjs-interview-questions
+
+# Popular gists:
+
+1) https://gist.github.com/ConnorBryan/2a053fd53d27d47f1e50f334c7cb9c4d
+
+2) https://gist.github.com/ConnorBryan/ee488374e0e8945520712a8f91b7dd42
+
 # Books:
 
 1) http://exploringjs.com/es6/index.html#toc_ch_destructuring
