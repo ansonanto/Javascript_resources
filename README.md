@@ -160,6 +160,8 @@
 
 1) https://github.com/sudheerj/reactjs-interview-questions
 
+2) https://medium.com/@baphemot/a-react-job-interview-recruiter-perspective-f1096f54dd16
+
 # Popular gists:
 
 1) https://gist.github.com/ConnorBryan/2a053fd53d27d47f1e50f334c7cb9c4d
