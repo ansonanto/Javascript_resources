@@ -174,6 +174,10 @@
 
 1) http://tinselcity.net/whys/packers
 
+# React Native app debug:
+
+1) https://iamsapankumar.blogspot.com/2018/12/react-native-app-development-on.html?fbclid=IwAR0SfrEmH0kDHVRvyXbqTgGh6Mdq4khqoyap2pPpLmzT_NoMLg7QATm6GRs
+
 # Books:
 
 1) http://exploringjs.com/es6/index.html#toc_ch_destructuring
