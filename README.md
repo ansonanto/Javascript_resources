@@ -181,3 +181,15 @@
 # Books:
 
 1) http://exploringjs.com/es6/index.html#toc_ch_destructuring
+
+# Reduce, map, filter:
+
+1) https://stackoverflow.com/questions/42974735/create-object-from-array
+
+2) https://medium.freecodecamp.org/reduce-f47a7da511a9
+
+3) https://stackoverflow.com/questions/50712874/how-to-extract-data-from-javascript-object-using-map-in-javascript
+
+4)
+
+5)
