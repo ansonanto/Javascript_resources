@@ -182,6 +182,10 @@
 
 1) http://exploringjs.com/es6/index.html#toc_ch_destructuring
 
+# drawer navigation React Native: 
+
+1) https://shift.infinite.red/react-navigation-drawer-tutorial-part-2-9c382217ac6b
+
 # Reduce, map, filter:
 
 1) https://stackoverflow.com/questions/42974735/create-object-from-array
