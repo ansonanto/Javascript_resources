@@ -182,6 +182,16 @@
 
 1) http://exploringjs.com/es6/index.html#toc_ch_destructuring
 
+# TDD:
+
+https://medium.freecodecamp.org/quick-guide-to-tdd-in-react-81888be67c64
+
+https://medium.freecodecamp.org/how-to-build-sturdy-react-apps-with-tdd-and-the-react-testing-library-47ad3c5c8e47
+
+https://medium.freecodecamp.org/how-to-set-up-continuous-integration-and-deployment-for-your-react-app-d09ae4525250
+
+https://medium.com/@Zaccc123/https-medium-com-zaccc123-continuous-integration-and-deployment-setup-for-react-app-7b5f4bd76cdd
+
 # drawer navigation React Native: 
 
 1) https://shift.infinite.red/react-navigation-drawer-tutorial-part-2-9c382217ac6b
