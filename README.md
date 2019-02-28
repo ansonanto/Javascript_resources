@@ -182,6 +182,12 @@
 
 1) http://exploringjs.com/es6/index.html#toc_ch_destructuring
 
+# Code sandbox:
+
+1) https://codesandbox.io/s/1rpn0ymxo4
+
+2) https://codesandbox.io/s/2r39l81zr
+
 # TDD:
 
 https://medium.freecodecamp.org/quick-guide-to-tdd-in-react-81888be67c64
