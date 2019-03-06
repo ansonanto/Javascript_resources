@@ -202,6 +202,10 @@ https://medium.com/@Zaccc123/https-medium-com-zaccc123-continuous-integration-an
 
 1) https://kentcdodds.com/blog
 
+# Security:
+
+1) https://www.owasp.org/index.php/Category:OWASP_Top_Ten_2017_Project
+
 # drawer navigation React Native: 
 
 1) https://shift.infinite.red/react-navigation-drawer-tutorial-part-2-9c382217ac6b
