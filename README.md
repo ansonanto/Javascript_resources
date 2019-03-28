@@ -221,3 +221,7 @@ https://medium.com/@Zaccc123/https-medium-com-zaccc123-continuous-integration-an
 4) https://stackoverflow.com/questions/52055987/destructuring-state-props-in-react
 
 5)
+
+# Infinite scroll reactjs:
+
+1) http://voidcanvas.com/implementing-infinite-scroll-with-react-js-without-plugin/
