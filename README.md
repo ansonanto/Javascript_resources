@@ -237,3 +237,7 @@ https://medium.com/@Zaccc123/https-medium-com-zaccc123-continuous-integration-an
 4) https://stackoverflow.com/questions/35283959/build-and-install-unsigned-apk-on-device-without-the-development-server
 
 5) https://iamsapankumar.blogspot.com/2018/12/generating-signed-apk-with-react-native.html
+
+# Nodejs interview questions:
+
+1) https://medium.com/@tkssharma
